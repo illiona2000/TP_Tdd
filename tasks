@@ -1,4 +1,4 @@
 Taches:
 
 [] getName()
-[] isEmpty()
+[] isEmpty() // traitement du dictionnaire vide
